@@ -1,8 +1,8 @@
 ## Hi, I am Sekhar ✨
 
-🧠 Computer Science student at CGU, BBSR
-🫱🏻‍🫲🏻Sharing ideas and learning journeys through code & design
-🎨 Design enthusiast who loves crafting beautiful user experiences
+🧠 Computer Science student at CGU, BBSR<br>
+🫱🏻‍🫲🏻Sharing ideas and learning journeys through code & design<br>
+🎨 Design enthusiast who loves crafting beautiful user experiences<br>
 
 ---
 
